@@ -3,4 +3,4 @@ From time to time I might feel like publicly addressing somebody, like for e.g. 
 
 
 ## Addresses
-[18th of January 2022: The Entertainment Industry](/spookyahell/public-addresses/blob/main/the-entertainment-industry_reGEOBLOCKING.md)
+[18th of January 2022: The Entertainment Industry](the-entertainment-industry_reGEOBLOCKING.md)

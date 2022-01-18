@@ -9,7 +9,7 @@ It is absurd and DOES NOT effectively give you more control over your content.
 <br>Or to just "ask a friend" who might be willing to help.
 
 Also: More online services and activity (due to covid19) drives up cybercrime automatically, you CAN NOT stop that logic.
-<br>Not having certain titles or works available in certain regions is what drives the motivation to leak something online.
+<br>Not having certain titles or works available in certain regions is (a LARGE part of) what drives the motivation to leak something online.
 
 That being said, not having a service available in all countries of the world at launch of a service is somewhat understandable.
 <br>However, if it takes you more than 2 years between, say... an US launch and all intended foreign launches, then you didn't do things the right way during that time.

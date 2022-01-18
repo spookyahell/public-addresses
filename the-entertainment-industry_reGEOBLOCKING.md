@@ -12,7 +12,7 @@ Also: More online services and activity (due to covid19) drives up cybercrime au
 <br>Not having certain titles or works available in certain regions is (a LARGE part of) what drives the motivation to leak something online.
 
 That being said, not having a service available in all countries of the world at launch of a service is somewhat understandable.
-<br>However, if it takes you more than 2 years between, say... an US launch and all intended foreign launches, then you didn't do things the right way during that time.
+<br>However, if it takes you 2 years or more between, say... an US launch and all intended foreign launches, then you didn't do things the right way during that time.
 
 But that too is a problem, when it comes to wanting to be among the first to watch something before it gets spoiled online for you.
 
